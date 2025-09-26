@@ -2,7 +2,7 @@
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
-AIM
+# AIM:
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
 
@@ -37,14 +37,11 @@ switch2.
 •  Another end of lamp holder is connected to neutral line.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
+![WhatsApp Image 2025-09-26 at 08 22 10_0c1fcd5b](https://github.com/user-attachments/assets/768fa22e-9b08-40ea-8260-f6b878ea4d29)
+![WhatsApp Image 2025-09-26 at 08 22 10_08992c14](https://github.com/user-attachments/assets/2c34f4d0-9f9e-43a2-a9b4-4cf6a932372d)
+![WhatsApp Image 2025-09-26 at 08 20 15_e377d403](https://github.com/user-attachments/assets/e201a8d2-2965-44d1-9516-e514196592cf)
+![WhatsApp Image 2025-09-26 at 08 20 16_311f9c19](https://github.com/user-attachments/assets/dbf00fe5-5728-44fe-a054-492513bc209c)
 
-
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
-
-Tabulation:2
 
 RESULT:
 Thus the staircase wiring is connected and tested.
